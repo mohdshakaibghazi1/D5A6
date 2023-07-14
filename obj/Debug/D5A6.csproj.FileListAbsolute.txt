@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\D5A6\D5A6\bin\Debug\D5A6.exe.config
+C:\Users\moham\source\repos\D5A6\D5A6\bin\Debug\D5A6.exe
+C:\Users\moham\source\repos\D5A6\D5A6\bin\Debug\D5A6.pdb
+C:\Users\moham\source\repos\D5A6\D5A6\obj\Debug\D5A6.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\D5A6\D5A6\obj\Debug\D5A6.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\D5A6\D5A6\obj\Debug\D5A6.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\D5A6\D5A6\obj\Debug\D5A6.exe
+C:\Users\moham\source\repos\D5A6\D5A6\obj\Debug\D5A6.pdb
